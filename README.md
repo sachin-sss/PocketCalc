@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=00F70E&center=true&multiline=true&repeat=false&width=435&height=60&lines=PocketCalc;----------+%7B+Calculate+on+the+go+%7D+----------)](https://git.io/typing-svg)
