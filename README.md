@@ -1,1 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=50&color=00F70E&center=true&multiline=true&repeat=false&width=435&height=60&lines=PocketCalc;----------+%7B+Calculate+on+the+go+%7D+----------)](https://git.io/typing-svg)
+
+![pocketcalc_description](https://github.com/user-attachments/assets/8da85390-c5fb-486e-9902-da9ac91bdc3d)
+
+PocketCalc is a simple and efficient pocket calculator for everyday calculations.
+
+This is a simple calculator with a clean and good looking user interface. This can be used to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
