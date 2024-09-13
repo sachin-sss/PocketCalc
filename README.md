@@ -6,7 +6,4 @@ This is a simple calculator with a clean and good looking user interface. This c
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&pause=50&color=F70000&width=535&height=60&lines=This+project+is+currently+under+development.;Check+back+later+for+updates+.+.+.)](https://git.io/typing-svg)
-
-
-![project under development](https://github.com/user-attachments/assets/3a44849d-9a80-47d7-b194-008ac4d87e3c)
+![project under development (red)](https://github.com/user-attachments/assets/e976dcae-c0d7-4704-9b2c-c1bb16181b91)
